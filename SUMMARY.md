@@ -1,4 +1,9 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Getting Started](README.md)
+* [Examples](examples.md)
+
+## Tools
+
+* [API](tools/api.md)
 
