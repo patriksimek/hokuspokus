@@ -67,7 +67,5 @@ Nested hint in Second Tab
 
 #### Tabs
 
-{% customcomponent title="bla" %}
-
-
+bla
 
